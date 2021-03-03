@@ -1,2 +1,1 @@
-This is the app
-You like it.
+This is the app.
